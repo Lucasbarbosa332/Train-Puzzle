@@ -4,6 +4,11 @@
 
 Este jogo envolve o posicionamento de trilhos para permitir que um trem passe de um lado a outro da tela. O jogador deve organizar os trilhos de forma estratégica, garantindo que o trem chegue ao destino final sem obstáculos. Desenvolvido utilizando HTML, CSS (Sass) e JavaScript, este jogo proporciona uma experiência divertida e desafiadora de raciocínio lógico.
 
+ <img width=70% src="https://github.com/Lucasbarbosa332/Square-War/blob/main/square-wars/dist/Captura%20de%20tela%202024-12-09%20231443.png?raw=true"></img> 
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 ## Tecnologias Utilizadas
 
 - **HTML (Pug)**: Estrutura da página e organização dos elementos do jogo.
