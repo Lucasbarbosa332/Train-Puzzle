@@ -36,4 +36,4 @@ Para rodar o jogo localmente, siga os passos abaixo:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone .git
+   git clone https://github.com/Lucasbarbosa332/Train-Puzzle.git.git
