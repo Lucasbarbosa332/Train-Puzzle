@@ -6,7 +6,7 @@ Este jogo envolve o posicionamento de trilhos para permitir que um trem passe de
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura da página e organização dos elementos do jogo.
+- **HTML (Pug)**: Estrutura da página e organização dos elementos do jogo.
 - **CSS (Sass)**: Estilo visual e organização do layout, usando Sass para facilitar a manutenção e a modularização dos estilos.
 - **JavaScript**: Lógica do jogo, controle do movimento do trem e interação do jogador.
 
